@@ -7,4 +7,4 @@ Welcome to my portfolio website!
 - JavaScript
 
 ## Link to the Site
-[Visit My Portfolio](http://127.0.0.1:5500/web.html)
+[Visit My Portfolio]( https://ramprosad2.github.io/portfolio/)
